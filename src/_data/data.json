@@ -1,0 +1,29 @@
+{
+    "copy"           : "WebsiteMarket", 
+    "email"          : "monikafulopbarta@yahoo.ro",
+    "phone"          : "0756592517",
+    "address"        : "Str. Principala 2A - Boghis457262 Boghis, Salaj.",
+    "design"         : "Paradigm by Html5 UP",
+
+    "app_title"      : "Complex Turistic David",
+    "app_subtitle"   : "O locatie excelenta de cazare in Boghis, Salaj.",
+
+    "seo_title"      : "Complex Turistic David - Cazare Apuseni | WebsiteMarket",
+    "seo_desc"       : "O locatie excelenta de cazare in Boghis, Salaj.",
+
+    "service"        : "https://websitemarket.ro", 
+
+    "product"        : "https://websitemarket.ro/creare-site/pensiuni/complex-turistic-david-apuseni/", 
+    "github"         : "https://github.com/creare-site/demo-complex-turistic-david-apuseni/",
+    "github_group"   : "https://github.com/creare-site/",
+
+    "blog"           : "https://blog.websitemarket.ro/",
+    "facebook"       : "https://www.facebook.com/davidcampro/",
+    "youtube"        : "https://www.youtube.com/",
+    "twitter"        : "https://twitter.com/websitemarketro/",
+    "instagram"      : "https://websitemarket.ro",
+    "support"        : "https://websitemarket.ro",
+    "discord"        : "https://discord.gg/MFRQmAk",
+
+    "LAST_KEY" : "NA"
+}
